@@ -21,5 +21,4 @@ Each chapter will provide practical insights, actionable advice, and real-life e
 
 Now, let's embark on this transformative journey together as we uncover the secrets to breaking through barriers and attaining the success you deserve.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
