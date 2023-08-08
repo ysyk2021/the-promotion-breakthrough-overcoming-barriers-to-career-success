@@ -6,7 +6,7 @@ Introduction
 
 In this chapter, we will explore the concept of self-limiting beliefs and how they can hinder your career success. We will provide practical techniques to help you identify and overcome these beliefs, empowering you to build confidence and resilience along the way.
 
-Section 1: Identifying and Overcoming Self-Limiting Beliefs
+Identifying and Overcoming Self-Limiting Beliefs
 -----------------------------------------------------------
 
 Self-limiting beliefs are negative thoughts or attitudes that hold us back from reaching our full potential. They often stem from past experiences, societal influences, or fear of failure. Recognizing and challenging these beliefs is crucial for personal and professional growth.
@@ -29,7 +29,7 @@ Self-limiting beliefs are negative thoughts or attitudes that hold us back from 
 * Affirmations and positive self-talk
 * Reframing failures as learning opportunities
 
-Section 2: Techniques for Building Confidence and Resilience
+Techniques for Building Confidence and Resilience
 ------------------------------------------------------------
 
 Building confidence and resilience is essential for overcoming self-limiting beliefs and achieving career breakthroughs. In this section, we will explore practical strategies to boost your self-assurance and bounce back from setbacks.
