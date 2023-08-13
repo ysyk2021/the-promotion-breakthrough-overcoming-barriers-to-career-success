@@ -3,7 +3,7 @@ Techniques for Improving Communication with Colleagues and Superiors
 
 Effective communication is a crucial skill for achieving career success. Building strong relationships with colleagues and superiors can enhance collaboration, productivity, and overall job satisfaction. In this chapter, we will explore several techniques that can help you improve communication in the workplace.
 
-1. Active Listening
+1\. Active Listening
 -------------------
 
 Active listening is the foundation of effective communication. It involves fully concentrating on the speaker, understanding their message, and responding appropriately. Here are some tips to improve your active listening skills:
@@ -13,7 +13,7 @@ Active listening is the foundation of effective communication. It involves fully
 * Summarize what you heard to ensure understanding.
 * Ask clarifying questions to gain further insight into the speaker's perspective.
 
-2. Clear and Concise Communication
+2\. Clear and Concise Communication
 ----------------------------------
 
 Clear and concise communication promotes understanding and minimizes misunderstandings. Consider the following suggestions:
@@ -23,7 +23,7 @@ Clear and concise communication promotes understanding and minimizes misundersta
 * Focus on the main points and avoid excessive details.
 * Use visual aids or examples when necessary to illustrate complex ideas.
 
-3. Empathy and Emotional Intelligence
+3\. Empathy and Emotional Intelligence
 -------------------------------------
 
 Empathy and emotional intelligence are essential in building strong relationships with colleagues and superiors. Here's how you can incorporate these qualities into your communication:
@@ -33,7 +33,7 @@ Empathy and emotional intelligence are essential in building strong relationship
 * Control your own emotions and respond calmly in challenging situations.
 * Show genuine interest and concern for others' well-being.
 
-4. Feedback and Constructive Criticism
+4\. Feedback and Constructive Criticism
 --------------------------------------
 
 Providing feedback and constructive criticism in a respectful and constructive manner is crucial for personal and professional growth. Consider these guidelines:
@@ -43,7 +43,7 @@ Providing feedback and constructive criticism in a respectful and constructive m
 * Offer actionable suggestions for improvement.
 * Use "I" statements to express your observations and avoid sounding accusatory.
 
-5. Nonverbal Communication
+5\. Nonverbal Communication
 --------------------------
 
 Nonverbal cues can significantly impact how your message is received. Pay attention to the following nonverbal aspects:

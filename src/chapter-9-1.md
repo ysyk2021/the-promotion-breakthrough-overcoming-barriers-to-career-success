@@ -1,8 +1,7 @@
 Identifying and Overcoming Self-Limiting Beliefs
 =========================================================
 
-Introduction
-------------
+
 
 In our journey towards career success, it is often our own self-limiting beliefs that become the biggest barriers. These beliefs can hold us back from reaching our full potential, hinder our progress, and prevent us from seizing opportunities for growth and promotion. This chapter aims to help you identify and overcome these self-limiting beliefs effectively.
 
