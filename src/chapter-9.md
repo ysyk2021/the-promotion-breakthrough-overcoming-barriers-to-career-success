@@ -1,9 +1,6 @@
 Chapter 9: Overcoming Self-Limiting Beliefs
 ===========================================
 
-Introduction
-------------
-
 In this chapter, we will explore the concept of self-limiting beliefs and how they can hinder your career success. We will provide practical techniques to help you identify and overcome these beliefs, empowering you to build confidence and resilience along the way.
 
 Identifying and Overcoming Self-Limiting Beliefs

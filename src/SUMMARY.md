@@ -18,6 +18,7 @@
 - [Chapter 6: Improving Communication Skills](chapter-6.md)
   - [Importance of effective communication skills in career advancement](chapter-6-1.md)
   - [Techniques for improving communication with colleagues and superiors](chapter-6-2.md)
+  - [Tips for Implementing Effective Communication Skills](chapter-6-3.md)
 - [Chapter 7: Demonstrating Leadership Potential](chapter-7.md)
   - [Importance of demonstrating leadership potential](chapter-7-1.md)
   - [Strategies for cultivating leadership skills and taking initiative](chapter-7-2.md)
