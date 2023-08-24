@@ -1,5 +1,3 @@
-Chapter 5: Navigating Office Politics
-=====================================
 
 Navigating office politics can be a challenging aspect of career advancement. In this chapter, we will explore the dynamics of office politics, their impact on promotions, and strategies for navigating and succeeding within office politics.
 

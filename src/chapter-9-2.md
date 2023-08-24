@@ -1,5 +1,3 @@
-Techniques for Building Confidence and Resilience
-==========================================================
 
 In today's fast-paced world, building confidence and resilience is essential for achieving success in our careers. Facing numerous challenges and setbacks is inevitable, but with the right techniques, we can develop the inner strength needed to overcome obstacles and thrive. This chapter explores effective strategies to boost confidence and build resilience in the pursuit of career success.
 
